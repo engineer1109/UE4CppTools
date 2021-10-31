@@ -17,4 +17,9 @@ public:
 	UFUNCTION(BlueprintCallable, Category = "Utils|FileSystem")
 	static FString PickDirectory(AActor* actor, FString path = TEXT("./"));
 	
+	UFUNCTION(BlueprintCallable, Category = "Utils|FileSystem")
+	static FString PickFile(AActor* actor, FString path = TEXT("./"));
+
+	UFUNCTION(BlueprintCallable, Category = "Utils|FileSystem")
+	static FString ReadFileToString(AActor* actor, FString path = TEXT("./"));
 };
