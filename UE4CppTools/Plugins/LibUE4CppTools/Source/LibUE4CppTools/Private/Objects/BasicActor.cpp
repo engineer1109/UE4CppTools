@@ -1,7 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 
-#include "../Public/BasicActor.h"
+#include "BasicActor.h"
 
 // Sets default values
 ABasicActor::ABasicActor()

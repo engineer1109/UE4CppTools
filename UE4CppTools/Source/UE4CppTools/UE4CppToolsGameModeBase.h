@@ -14,4 +14,6 @@ class UE4CPPTOOLS_API AUE4CppToolsGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
 	
+public:
+	void test();
 };

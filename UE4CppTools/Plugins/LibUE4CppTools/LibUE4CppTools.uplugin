@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "LibUE4CppTools",
+	"Description": "GPL3 License",
+	"Category": "Other",
+	"CreatedBy": "Jialiang Wang",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+	  {
+		"Name": "LibUE4CppTools",
+		"Type": "Runtime",
+		"LoadingPhase": "Default",
+		"AdditionalDependencies": [
+		  "Engine"
+		]
+	  }
+	]
+}

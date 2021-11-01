@@ -7,7 +7,7 @@
 #include "BasicActor.generated.h"
 
 UCLASS()
-class UE4CPPTOOLS_API ABasicActor : public AActor
+class LIBUE4CPPTOOLS_API ABasicActor : public AActor
 {
 	GENERATED_BODY()
 	

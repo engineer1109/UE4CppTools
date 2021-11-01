@@ -10,7 +10,7 @@
  * 
  */
 UCLASS()
-class UE4CPPTOOLS_API UFileSytemUtils : public UBlueprintFunctionLibrary
+class LIBUE4CPPTOOLS_API UFileSytemUtils : public UBlueprintFunctionLibrary
 {
 	GENERATED_BODY()
 public:
